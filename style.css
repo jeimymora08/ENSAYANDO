@@ -1,0 +1,15 @@
+*
+margin 0;
+pading 0;
+
+body {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+#correo{
+    color: aquamarine;
+    display: flex;
+    justify-content: flex-end;
+}
